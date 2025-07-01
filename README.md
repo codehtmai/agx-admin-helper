@@ -141,6 +141,10 @@ ApiCall({ key: secrets.key });
 
 :point_right: The files with name `secrets.*.js` already are ignored on the repository.
 
+## Best Practices
+
+For suggestions on keeping this project current and secure, see [BEST_PRACTICES.md](BEST_PRACTICES.md).
+
 ## Resources:
 
 - [Webpack documentation](https://webpack.js.org/concepts/)
